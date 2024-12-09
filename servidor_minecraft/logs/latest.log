@@ -3643,3 +3643,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [09Dec2024 19:14:43.179] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [09Dec2024 19:14:43.181] [Server thread/INFO] [com.peeko32213.unusualprehistory.common.data.AnalyzerRecipeJsonManager/]: Registered 17 jsons with items!
 [09Dec2024 19:14:43.181] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[09Dec2024 19:35:08.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXAlebyXx[/100.115.40.55:50621] logged in with entity id 330 at (28.69999998807907, 100.0, 21.634651176217254)
+[09Dec2024 19:35:09.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXAlebyXx joined the game
+[09Dec2024 19:35:12.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[09Dec2024 19:36:33.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AndreiiiiiXd[/100.75.193.40:55851] logged in with entity id 477 at (-3.5, 64.0, 2.5)
+[09Dec2024 19:36:33.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd joined the game
+[09Dec2024 19:37:27.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santitin98YT[/100.106.47.35:49987] logged in with entity id 569 at (-7.5, 63.0, 7.5)
+[09Dec2024 19:37:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santitin98YT joined the game
+[09Dec2024 19:38:17.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[09Dec2024 19:38:34.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Made Santitin98YT a server operator]
+[09Dec2024 19:38:44.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Made xXAlebyXx a server operator]
+[09Dec2024 19:39:00.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set the time to 1000]
+[09Dec2024 19:39:16.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santitin98YT has completed the challenge [Assassin Class]
+[09Dec2024 19:39:17.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd has completed the challenge [Ranger Class]
+[09Dec2024 19:41:23.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[09Dec2024 19:43:42.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXAlebyXx was slain by Santitin98YT

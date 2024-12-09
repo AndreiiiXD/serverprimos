@@ -290,12 +290,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:birch_forest": "2024-12-09 17:36:31 +0000"
-    },
-    "done": false
-  },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_items": "2024-12-09 17:36:30 +0000"
@@ -318,6 +312,19 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2024-12-09 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-09 19:39:08 +0000",
+      "minecraft:birch_forest": "2024-12-09 17:36:31 +0000"
+    },
+    "done": false
+  },
+  "rpgsmw:ranger_class": {
+    "criteria": {
+      "ranger_class_0": "2024-12-09 19:39:17 +0000"
     },
     "done": true
   },
