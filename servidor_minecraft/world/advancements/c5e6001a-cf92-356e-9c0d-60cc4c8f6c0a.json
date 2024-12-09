@@ -324,6 +324,7 @@
       "minecraft:savanna_plateau": "2024-12-09 21:20:04 +0000",
       "minecraft:beach": "2024-12-09 21:54:57 +0000",
       "minecraft:dark_forest": "2024-12-09 20:39:39 +0000",
+      "minecraft:sparse_jungle": "2024-12-09 23:01:32 +0000",
       "minecraft:river": "2024-12-09 19:51:30 +0000",
       "minecraft:dripstone_caves": "2024-12-09 20:01:39 +0000",
       "minecraft:grove": "2024-12-09 21:01:39 +0000",
@@ -3262,6 +3263,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/witch_helmet": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-09 23:02:47 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/combat/assault_rifle": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 21:56:22 +0000"
@@ -3297,6 +3304,12 @@
       "capture": "2024-12-09 21:30:03 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2024-12-09 23:00:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
@@ -3352,9 +3365,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/husk_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-09 22:59:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 21:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-09 22:59:32 +0000"
     },
     "done": true
   },
@@ -3472,6 +3497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2024-12-09 22:59:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 21:56:22 +0000"
@@ -3532,6 +3563,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/witch_boots": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-09 23:02:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-09 21:15:22 +0000"
@@ -3541,6 +3578,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-09 21:20:31 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-09 22:59:32 +0000"
     },
     "done": true
   },
@@ -3739,6 +3782,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-09 20:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2024-12-09 22:59:38 +0000"
     },
     "done": true
   },
@@ -4009,6 +4058,12 @@
   "refurbished_furniture:recipes/misc/constructing/frying_pan": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 21:56:22 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_chestplate": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-09 23:02:47 +0000"
     },
     "done": true
   },
@@ -4414,6 +4469,12 @@
     },
     "done": true
   },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smithingtable": "2024-12-09 22:59:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/light_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 21:56:22 +0000"
@@ -4522,6 +4583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-09 22:59:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 21:56:22 +0000"
@@ -4549,6 +4616,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 21:56:22 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_leggings": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-09 23:02:47 +0000"
     },
     "done": true
   },
@@ -4696,6 +4769,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/husk_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-09 22:59:32 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/zombie_helmet2": {
     "criteria": {
       "has_rotten_flesh": "2024-12-09 20:53:42 +0000"
@@ -4707,6 +4786,12 @@
       "has_iron": "2024-12-09 21:56:22 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smithingtable": "2024-12-09 22:59:05 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
@@ -5164,6 +5249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-09 22:59:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 21:56:22 +0000"
@@ -5353,6 +5444,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-09 21:03:47 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-09 22:59:32 +0000"
     },
     "done": true
   },
