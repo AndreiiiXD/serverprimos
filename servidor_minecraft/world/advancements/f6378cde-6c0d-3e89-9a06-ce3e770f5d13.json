@@ -2788,7 +2788,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-09 20:01:15 +0000",
-      "potato": "2024-12-09 19:54:53 +0000"
+      "potato": "2024-12-09 19:54:53 +0000",
+      "cooked_chicken": "2024-12-09 20:49:59 +0000"
     },
     "done": false
   },
@@ -4028,6 +4029,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/veteran_helmet": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-09 20:50:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 20:43:06 +0000"
@@ -4058,6 +4065,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-09 20:49:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 20:43:06 +0000"
@@ -4082,6 +4095,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/hollow_leggings": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-09 20:50:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 20:43:06 +0000"
@@ -4100,9 +4119,21 @@
     },
     "done": true
   },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2024-12-09 20:51:41 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/warlord_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 20:43:06 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_leggings": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-09 20:50:21 +0000"
     },
     "done": true
   },
@@ -4148,9 +4179,39 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_helmet": {
+    "criteria": {
+      "has_golden_apple": "2024-12-09 20:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-09 20:49:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_helmet": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-09 20:50:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_chestplate": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-09 20:50:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 20:43:06 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_boots": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-09 20:50:21 +0000"
     },
     "done": true
   },
@@ -4166,15 +4227,57 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/apple_leggings": {
+    "criteria": {
+      "has_golden_apple": "2024-12-09 20:52:01 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_chestplate": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-09 20:50:21 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/warlord_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 20:43:06 +0000"
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-09 20:47:47 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/evoker_leggings": {
     "criteria": {
       "has_totem_of_undying": "2024-12-09 20:44:29 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-09 20:47:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_boots": {
+    "criteria": {
+      "has_golden_apple": "2024-12-09 20:52:01 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_chestplate": {
+    "criteria": {
+      "has_golden_apple": "2024-12-09 20:52:01 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_boots": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-09 20:50:21 +0000"
     },
     "done": true
   },
@@ -4190,9 +4293,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-09 20:49:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 20:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-09 20:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-09 20:50:21 +0000"
     },
     "done": true
   },
