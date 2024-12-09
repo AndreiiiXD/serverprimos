@@ -3638,6 +3638,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-09 23:45:02 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/cleaver_heavy_axe": {
     "criteria": {
       "has_diamond_axe": "2024-12-09 21:06:38 +0000"
@@ -4655,6 +4661,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-09 21:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-09 23:43:48 +0000"
     },
     "done": true
   },
