@@ -3302,6 +3302,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-09 23:33:29 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/horn_boots": {
     "criteria": {
       "has_sand": "2024-12-09 21:55:11 +0000"
@@ -3881,6 +3887,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 21:56:22 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2024-12-09 23:33:29 +0000"
     },
     "done": true
   },
@@ -4577,6 +4589,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 21:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-09 23:33:29 +0000"
     },
     "done": true
   },
