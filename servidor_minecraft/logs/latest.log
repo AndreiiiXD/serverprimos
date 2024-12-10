@@ -5094,3 +5094,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [10Dec2024 22:26:59.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Teleported AndreiiiiiXd to Santitin98YT]
 [10Dec2024 22:27:03.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Spectator Mode]
 [10Dec2024 22:27:06.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 22:27:38.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Teleported Santitin98YT to AndreiiiiiXd]
+[10Dec2024 22:28:02.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 22:28:07.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 22:28:14.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Spectator Mode]
+[10Dec2024 22:28:25.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Creative Mode]
+[10Dec2024 22:28:31.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 22:28:42.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 22:29:06.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Creative Mode]
+[10Dec2024 22:29:19.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Dec2024 22:29:25.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Spectator Mode]
+[10Dec2024 22:29:29.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 22:29:31.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 22:29:53.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Teleported AndreiiiiiXd to Santitin98YT]
+[10Dec2024 22:30:01.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Teleported AndreiiiiiXd to -1852.500000, 258.500000, 2911.500000]
+[10Dec2024 22:31:22.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXAlebyXx[/100.115.40.55:52188] logged in with entity id 223087 at (-1349.7054111533732, 67.0, 3093.3545631264865)
+[10Dec2024 22:31:22.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXAlebyXx joined the game
+[10Dec2024 22:32:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Teleported Santitin98YT to AndreiiiiiXd]
+[10Dec2024 22:32:11.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 22:32:13.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 22:32:14.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 22:32:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 22:32:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 22:32:24.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 22:35:07.253] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already

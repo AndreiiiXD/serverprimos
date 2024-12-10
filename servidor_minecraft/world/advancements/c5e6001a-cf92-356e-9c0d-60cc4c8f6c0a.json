@@ -7813,6 +7813,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 22:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-10 20:32:16 +0000"
@@ -7900,6 +7906,12 @@
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2024-12-10 21:56:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 22:25:08 +0000"
     },
     "done": true
   },
@@ -8085,7 +8097,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2024-12-10 21:28:45 +0000"
+      "sweet_berries": "2024-12-10 21:28:45 +0000",
+      "brown_mushroom": "2024-12-10 22:28:48 +0000"
     },
     "done": false
   },
@@ -8431,6 +8444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-10 22:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-10 20:25:39 +0000"
@@ -8725,6 +8744,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-12-10 22:25:42 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-10 20:20:07 +0000"
@@ -8791,6 +8816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-10 22:25:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2024-12-10 20:12:43 +0000"
@@ -8824,6 +8855,12 @@
   "knightquest:recipes/misc/shield_boots": {
     "criteria": {
       "has_shield": "2024-12-10 20:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-10 22:24:51 +0000"
     },
     "done": true
   },
