@@ -318,8 +318,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-09 21:00:21 +0000",
+      "minecraft:mushroom_fields": "2024-12-10 20:47:14 +0000",
       "minecraft:taiga": "2024-12-09 19:39:08 +0000",
       "minecraft:deep_ocean": "2024-12-10 20:07:59 +0000",
+      "minecraft:frozen_river": "2024-12-10 20:39:14 +0000",
       "minecraft:cherry_grove": "2024-12-09 20:58:33 +0000",
       "minecraft:sunflower_plains": "2024-12-09 23:26:13 +0000",
       "minecraft:birch_forest": "2024-12-09 17:36:31 +0000",
@@ -328,10 +330,15 @@
       "minecraft:dark_forest": "2024-12-09 20:39:39 +0000",
       "minecraft:sparse_jungle": "2024-12-09 23:01:32 +0000",
       "minecraft:river": "2024-12-09 19:51:30 +0000",
+      "minecraft:stony_shore": "2024-12-10 20:37:27 +0000",
       "minecraft:dripstone_caves": "2024-12-09 20:01:39 +0000",
       "minecraft:grove": "2024-12-09 21:01:39 +0000",
+      "minecraft:cold_ocean": "2024-12-10 20:28:51 +0000",
       "minecraft:forest": "2024-12-09 19:51:18 +0000",
       "minecraft:lush_caves": "2024-12-10 20:04:57 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-10 20:29:13 +0000",
+      "minecraft:frozen_ocean": "2024-12-10 20:30:35 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-10 20:29:14 +0000",
       "minecraft:jungle": "2024-12-10 18:59:16 +0000",
       "minecraft:ocean": "2024-12-10 20:08:02 +0000",
       "minecraft:flower_forest": "2024-12-09 23:26:04 +0000",
@@ -2681,6 +2688,7 @@
       "minecraft:spider": "2024-12-10 18:16:32 +0000",
       "minecraft:evoker": "2024-12-09 20:41:00 +0000",
       "minecraft:husk": "2024-12-09 20:53:27 +0000",
+      "minecraft:stray": "2024-12-10 20:26:00 +0000",
       "minecraft:zombie": "2024-12-09 23:04:49 +0000"
     },
     "done": false
@@ -7798,6 +7806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-10 20:32:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-10 20:19:41 +0000"
@@ -7807,6 +7821,18 @@
   "knightquest:recipes/misc/strawhat_boots": {
     "criteria": {
       "has_white_wool": "2024-12-10 20:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-10 20:25:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-10 20:38:04 +0000"
     },
     "done": true
   },
@@ -7822,9 +7848,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-10 20:30:49 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-10 20:27:22 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2024-12-10 20:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-10 20:19:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2024-12-10 20:30:50 +0000"
     },
     "done": true
   },
@@ -7840,6 +7890,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-10 20:30:50 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_wood": "2024-12-10 20:20:07 +0000"
@@ -7852,6 +7908,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2024-12-10 20:46:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-10 20:20:07 +0000"
@@ -7861,6 +7923,18 @@
   "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-10 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2024-12-10 20:31:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-10 20:25:39 +0000"
     },
     "done": true
   },
@@ -7882,15 +7956,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-10 20:30:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2024-12-10 20:11:49 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 20:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-10 20:30:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_chair": {
     "criteria": {
       "has_planks": "2024-12-10 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-10 20:30:50 +0000"
     },
     "done": true
   },
@@ -7906,9 +8004,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-10 20:31:02 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/path_helmet": {
     "criteria": {
       "has_leather": "2024-12-10 20:19:41 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2024-12-10 20:30:53 +0000"
     },
     "done": true
   },
@@ -7921,6 +8031,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-10 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2024-12-10 20:30:53 +0000"
     },
     "done": true
   },
@@ -7942,6 +8058,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-10 20:25:39 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-10 20:20:07 +0000"
@@ -7954,9 +8076,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-10 20:27:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2024-12-10 20:11:49 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-12-10 20:51:13 +0000"
     },
     "done": true
   },
@@ -8002,6 +8136,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-10 20:30:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-10 20:30:50 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/conquistador_boots": {
     "criteria": {
       "has_leather": "2024-12-10 20:19:41 +0000"
@@ -8020,9 +8166,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 20:30:49 +0000"
+    },
+    "done": true
+  },
   "portablemobs:playercaptureadvancement": {
     "criteria": {
       "playertrigger": "2024-12-10 20:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-10 20:25:39 +0000"
     },
     "done": true
   },
@@ -8032,9 +8190,39 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shield_chestplate": {
+    "criteria": {
+      "has_shield": "2024-12-10 20:25:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-10 20:30:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2024-12-10 20:19:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_leggings": {
+    "criteria": {
+      "has_shield": "2024-12-10 20:25:11 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-10 20:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-10 20:25:39 +0000"
     },
     "done": true
   },
@@ -8074,6 +8262,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-10 20:30:50 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2024-12-10 20:04:57 +0000"
@@ -8110,9 +8304,21 @@
     },
     "done": true
   },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2024-12-10 20:32:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-10 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-10 20:30:50 +0000"
     },
     "done": true
   },
@@ -8164,6 +8370,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shield_helmet": {
+    "criteria": {
+      "has_shield": "2024-12-10 20:25:11 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2024-12-10 20:31:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_table": {
     "criteria": {
       "has_planks": "2024-12-10 20:20:07 +0000"
@@ -8191,6 +8409,18 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-10 20:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-10 20:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2024-12-10 20:32:16 +0000"
     },
     "done": true
   },
@@ -8230,6 +8460,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-10 20:30:49 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2024-12-10 20:31:29 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-10 20:20:07 +0000"
@@ -8254,15 +8496,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-10 20:30:49 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/path_leggings": {
     "criteria": {
       "has_leather": "2024-12-10 20:19:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-10 20:27:22 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-10 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_boots": {
+    "criteria": {
+      "has_shield": "2024-12-10 20:25:11 +0000"
     },
     "done": true
   },
