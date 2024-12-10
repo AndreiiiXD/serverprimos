@@ -6055,15 +6055,197 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/forze_boots": {
+  "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
-      "has_spider_eye": "2024-12-10 20:26:30 +0000"
+      "crystal_canyon": "2024-12-10 19:14:51 +0000",
+      "sugar_water_floor": "2024-12-10 19:17:00 +0000",
+      "hive_wall": "2024-12-10 19:16:13 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2024-12-10 19:16:31 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/orange_cooler": {
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
     "criteria": {
-      "has_chest": "2024-12-10 20:46:57 +0000"
+      "teleport_out_of_bumblezone": "2024-12-10 19:17:03 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_subway": "2024-12-10 19:18:07 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_leggings": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_helmet": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_boots": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-10 19:21:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_leggings": {
+    "criteria": {
+      "has_iron_horse_armor": "2024-12-10 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_helmet": {
+    "criteria": {
+      "has_iron_horse_armor": "2024-12-10 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_chestplate": {
+    "criteria": {
+      "has_iron_horse_armor": "2024-12-10 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-10 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_boots": {
+    "criteria": {
+      "has_iron_horse_armor": "2024-12-10 19:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-10 19:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-10 19:30:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-10 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_helmet": {
+    "criteria": {
+      "has_golden_apple": "2024-12-10 19:32:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_leggings": {
+    "criteria": {
+      "has_golden_apple": "2024-12-10 19:32:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_boots": {
+    "criteria": {
+      "has_golden_apple": "2024-12-10 19:32:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/apple_chestplate": {
+    "criteria": {
+      "has_golden_apple": "2024-12-10 19:32:50 +0000"
     },
     "done": true
   },
@@ -6079,15 +6261,267 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
     "criteria": {
-      "deflected_projectile": "2024-12-10 20:33:07 +0000"
+      "has_log": "2024-12-10 19:34:01 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/brown_kitchen_drawer": {
+  "mcwtrpdoors:recipes/mangrove/mangrove_barrel_trapdoor": {
     "criteria": {
-      "has_chest": "2024-12-10 20:46:57 +0000"
+      "has_logs": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_chair": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_chair": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_crate": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_table": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_desk": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_table": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_swamp": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_desk": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_crate": {
+    "criteria": {
+      "has_planks": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_blinds": {
+    "criteria": {
+      "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2024-12-10 19:35:31 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2024-12-10 19:35:46 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/honey_crystal_shield_block_ineffectively": {
+    "criteria": {
+      "honey_crystal_shield_block_ineffectively": "2024-12-10 19:36:23 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-10 20:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-10 20:17:22 +0000"
     },
     "done": true
   },
@@ -6097,39 +6531,291 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
+      "has_gravel": "2024-12-10 20:22:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
-      "has_diorite": "2024-12-10 20:48:28 +0000"
+      "has_gravel": "2024-12-10 20:22:51 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
+      "has_gravel": "2024-12-10 20:22:51 +0000"
     },
     "done": true
   },
-  "the_bumblezone:structures/enter_all_structures": {
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
-      "in_subway": "2024-12-10 19:18:07 +0000"
+      "has_gravel": "2024-12-10 20:22:51 +0000"
     },
-    "done": false
+    "done": true
   },
-  "cfm:recipes/decorations/dark_oak_mail_box": {
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-10 20:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-10 20:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-10 20:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-10 20:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-10 20:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-10 20:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-10 20:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-10 20:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-10 20:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-10 20:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-10 20:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-10 20:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-10 20:25:17 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_boots": {
+    "criteria": {
+      "has_spider_eye": "2024-12-10 20:26:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_helmet": {
+    "criteria": {
+      "has_spider_eye": "2024-12-10 20:26:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_helmet": {
+    "criteria": {
+      "has_spider_eye": "2024-12-10 20:26:30 +0000"
+    },
+    "done": true
+  },
+  "exlinefurniture:recipes/misc/spidereye": {
+    "criteria": {
+      "has_ingredient": "2024-12-10 20:26:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_boots": {
+    "criteria": {
+      "has_spider_eye": "2024-12-10 20:26:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-10 20:26:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_chestplate": {
+    "criteria": {
+      "has_spider_eye": "2024-12-10 20:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-10 20:26:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_chestplate": {
+    "criteria": {
+      "has_spider_eye": "2024-12-10 20:26:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_leggings": {
+    "criteria": {
+      "has_spider_eye": "2024-12-10 20:26:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_leggings": {
+    "criteria": {
+      "has_spider_eye": "2024-12-10 20:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-10 20:30:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-10 20:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-10 20:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-10 20:33:07 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-10 20:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/fossil": {
+    "criteria": {
+      "frozen_fossil": "2024-12-10 20:41:52 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/specialised_grip": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/medium_scope": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/tactical_stock": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-10 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-10 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/weighted_stock": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/short_scope": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/light_grip": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/light_stock": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/silencer": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/long_scope": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_cooler": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
+  "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
+      "has_chest": "2024-12-10 20:46:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2024-12-10 20:46:57 +0000"
     },
     "done": true
   },
@@ -6157,81 +6843,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-10 20:48:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
-    "criteria": {
-      "has_honeycomb_block": "2024-12-10 19:16:31 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
-    "criteria": {
-      "has_granite": "2024-12-10 20:48:27 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
-    "criteria": {
-      "obtain_stinger_spear": "2024-12-10 19:35:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2024-12-10 21:11:30 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_chair": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-10 20:48:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/squire_leggings": {
-    "criteria": {
-      "has_iron_horse_armor": "2024-12-10 19:30:13 +0000"
     },
     "done": true
   },
@@ -6241,27 +6855,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2024-12-10 21:11:30 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-10 20:48:27 +0000"
     },
     "done": true
   },
@@ -6271,45 +6867,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2024-12-10 20:48:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-10 20:48:28 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/esca": {
-    "criteria": {
-      "has_item": "2024-12-10 20:47:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-12-10 20:30:33 +0000"
     },
     "done": true
   },
@@ -6331,69 +6891,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2024-12-10 20:48:27 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
-    "criteria": {
-      "obtain_honey_crystal_shield": "2024-12-10 19:35:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-10 20:48:28 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_esca": {
-    "criteria": {
-      "esca": "2024-12-10 20:47:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-10 20:48:27 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/combat/specialised_grip": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
     },
     "done": true
   },
@@ -6403,21 +6903,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2024-12-10 20:48:27 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-10 20:48:27 +0000"
     },
     "done": true
   },
@@ -6427,39 +6915,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-12-10 20:30:33 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_coffee_table": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/combat/medium_scope": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/forze_helmet": {
-    "criteria": {
-      "has_spider_eye": "2024-12-10 20:26:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2024-12-10 20:48:28 +0000"
     },
     "done": true
   },
@@ -6469,51 +6927,15 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-10 19:30:14 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/pink_cooler": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
     },
     "done": true
   },
-  "cataclysm:find_sunken_city": {
-    "criteria": {
-      "factory": "2024-12-10 20:51:09 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/spider_helmet": {
-    "criteria": {
-      "has_spider_eye": "2024-12-10 20:26:30 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "immersive_melodies:misc/instruments": {
-    "criteria": {
-      "has_item": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/combat/tactical_stock": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
     },
     "done": true
   },
@@ -6529,12 +6951,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
@@ -6547,27 +6963,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/squire_helmet": {
-    "criteria": {
-      "has_iron_horse_armor": "2024-12-10 19:30:13 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_park_bench": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
     },
     "done": true
   },
@@ -6577,39 +6975,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/squire_chestplate": {
-    "criteria": {
-      "has_iron_horse_armor": "2024-12-10 19:30:13 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-10 20:48:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
     },
     "done": true
   },
@@ -6619,65 +6987,9 @@
     },
     "done": true
   },
-  "exlinefurniture:recipes/misc/spidereye": {
-    "criteria": {
-      "has_ingredient": "2024-12-10 20:26:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-10 20:48:27 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_kitchen_counter": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
-    "criteria": {
-      "teleport_out_of_bumblezone": "2024-12-10 19:17:03 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/warped_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:biomes/discover_all_biomes": {
-    "criteria": {
-      "crystal_canyon": "2024-12-10 19:14:51 +0000",
-      "sugar_water_floor": "2024-12-10 19:17:00 +0000",
-      "hive_wall": "2024-12-10 19:16:13 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/mangrove_upgraded_fence": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-10 20:46:56 +0000"
     },
     "done": true
   },
@@ -6693,36 +7005,6 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/mangrove": {
-    "criteria": {
-      "has_wood": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_chair": {
-    "criteria": {
-      "has_planks": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
@@ -6735,87 +7017,9 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal_shield/honey_crystal_shield_block_ineffectively": {
-    "criteria": {
-      "honey_crystal_shield_block_ineffectively": "2024-12-10 19:36:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-10 21:11:30 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_crate": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/shield_chestplate": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2024-12-10 20:48:28 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/apple_helmet": {
-    "criteria": {
-      "has_golden_apple": "2024-12-10 19:32:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_desk_cabinet": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/shield_leggings": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/find_ice_maze": {
-    "criteria": {
-      "deep_frozen_ocean": "2024-12-10 20:41:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-10 21:11:30 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/spider_boots": {
-    "criteria": {
-      "has_spider_eye": "2024-12-10 20:26:30 +0000"
     },
     "done": true
   },
@@ -6825,27 +7029,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-12-10 20:25:17 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_table": {
-    "criteria": {
-      "has_planks": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/conquistador2_helmet": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-10 20:46:56 +0000"
     },
     "done": true
   },
@@ -6855,105 +7041,9 @@
     },
     "done": true
   },
-  "cgm:recipes/combat/weighted_stock": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2024-12-10 20:05:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_bedside_cabinet": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-10 21:11:30 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
-    "criteria": {
-      "has_diorite": "2024-12-10 20:48:28 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_cabinet": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-10 21:11:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2024-12-10 20:48:28 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/combat/short_scope": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_desk": {
-    "criteria": {
-      "has_planks": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_park_bench": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
     },
     "done": true
   },
@@ -6969,21 +7059,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/apple_leggings": {
-    "criteria": {
-      "has_golden_apple": "2024-12-10 19:32:50 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_birch_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/combat/light_grip": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
     },
     "done": true
   },
@@ -6999,111 +7077,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_table": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2024-12-10 20:17:22 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/shield_helmet": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-12-10 20:26:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-12-10 19:30:13 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/forze_chestplate": {
-    "criteria": {
-      "has_spider_eye": "2024-12-10 20:26:30 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_swamp": {
-    "criteria": {
-      "has_logs": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-12-10 20:26:30 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/combat/light_stock": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_cabinet": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/light_gray_cooler": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/combat/silencer": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-10 20:48:28 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_desk": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_kitchen_counter": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
     },
     "done": true
   },
@@ -7113,63 +7089,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_kitchen_drawer": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2024-12-10 20:48:27 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/mangrove_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/mangrove": {
-    "criteria": {
-      "has_wood": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/apple_boots": {
-    "criteria": {
-      "has_golden_apple": "2024-12-10 19:32:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
     },
     "done": true
   },
@@ -7191,69 +7119,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/apple_chestplate": {
-    "criteria": {
-      "has_golden_apple": "2024-12-10 19:32:50 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_crate": {
-    "criteria": {
-      "has_planks": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-10 20:22:51 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_dagger_of_greed": {
-    "criteria": {
-      "dagger_of_greed": "2024-12-10 21:00:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-10 20:48:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-12-10 19:30:28 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/spider_chestplate": {
-    "criteria": {
-      "has_spider_eye": "2024-12-10 20:26:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-12-10 20:30:33 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/combat/long_scope": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-10 20:46:56 +0000"
     },
     "done": true
   },
@@ -7263,51 +7131,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-10 20:48:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:main/fossil": {
-    "criteria": {
-      "frozen_fossil": "2024-12-10 20:41:52 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/forze_leggings": {
-    "criteria": {
-      "has_spider_eye": "2024-12-10 20:26:30 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_acacia_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2024-12-10 19:30:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2024-12-10 20:48:28 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/shield_boots": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-10 19:21:45 +0000"
     },
     "done": true
   },
@@ -7317,39 +7143,303 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
-    "criteria": {
-      "has_item": "2024-12-10 19:21:45 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/spider_leggings": {
-    "criteria": {
-      "has_spider_eye": "2024-12-10 20:26:30 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/squire_boots": {
-    "criteria": {
-      "has_iron_horse_armor": "2024-12-10 19:30:13 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_blinds": {
-    "criteria": {
-      "has_log": "2024-12-10 19:34:01 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-10 20:46:57 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2024-12-10 20:47:29 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2024-12-10 20:47:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-10 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2024-12-10 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-10 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-10 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-10 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-10 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-10 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-10 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-10 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-10 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-10 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-12-10 20:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-10 20:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-10 20:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-10 20:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-10 20:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-10 20:48:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2024-12-10 20:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-10 20:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-10 20:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-10 20:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-10 20:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-10 20:48:28 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-12-10 20:51:09 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2024-12-10 21:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-10 21:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-10 21:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 21:11:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 21:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 21:11:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 21:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_boots": {
+    "criteria": {
+      "has_white_wool": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_helmet": {
+    "criteria": {
+      "has_white_wool": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_leggings": {
+    "criteria": {
+      "has_white_wool": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_white_wool": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-10 21:45:47 +0000"
     },
     "done": true
   },

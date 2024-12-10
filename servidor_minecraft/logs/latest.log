@@ -4953,3 +4953,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [10Dec2024 21:35:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
 [10Dec2024 21:35:27.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
 [10Dec2024 21:36:01.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 21:36:26.698] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[10Dec2024 21:36:36.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 21:36:48.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 21:36:51.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 21:38:23.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 21:39:39.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[10Dec2024 21:40:03.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 21:40:08.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[10Dec2024 21:40:51.569] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at 6074 14 -5026 in 1s
+[10Dec2024 21:41:09.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 21:41:41.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 21:41:46.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 21:42:01.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 21:42:43.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd was shot by Lord Pumpkinhead
+[10Dec2024 21:42:50.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 21:42:54.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Spectator Mode]
+[10Dec2024 21:42:55.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 21:42:56.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 21:43:03.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Teleported AndreiiiiiXd to -1372.500000, 70.500000, 2784.500000]
+[10Dec2024 21:43:06.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Spectator Mode]
+[10Dec2024 21:43:07.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 21:43:08.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[10Dec2024 21:43:13.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 21:43:18.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 21:43:24.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 21:43:25.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXAlebyXx lost connection: Disconnected
+[10Dec2024 21:43:25.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXAlebyXx left the game
+[10Dec2024 21:43:28.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 21:44:00.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santitin98YT moved too quickly! 5.61267137402956,0.0,-9.199385358159816
+[10Dec2024 21:44:04.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXAlebyXx[/100.115.40.55:51578] logged in with entity id 187974 at (2103.317279996312, 62.0, -438.0570607993559)
+[10Dec2024 21:44:04.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXAlebyXx joined the game
+[10Dec2024 21:44:04.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santitin98YT moved too quickly! 5.45318366757283,0.0,-8.937978840588585
+[10Dec2024 21:44:21.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd was slain by Cyclops
+[10Dec2024 21:44:27.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Creative Mode]
+[10Dec2024 21:44:31.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Teleported AndreiiiiiXd to -1369.500000, 62.500000, 2933.500000]
+[10Dec2024 21:44:36.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[10Dec2024 21:44:44.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 21:45:20.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[10Dec2024 21:45:25.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 21:45:37.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Teleported xXAlebyXx to AndreiiiiiXd]
+[10Dec2024 21:45:38.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
+[10Dec2024 21:46:06.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXAlebyXx lost connection: Disconnected
+[10Dec2024 21:46:06.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXAlebyXx left the game
+[10Dec2024 21:46:32.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd has made the advancement [Plushies!]
