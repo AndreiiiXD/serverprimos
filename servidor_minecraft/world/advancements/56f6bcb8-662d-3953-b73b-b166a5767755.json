@@ -323,6 +323,7 @@
       "minecraft:sunflower_plains": "2024-12-09 20:59:32 +0000",
       "minecraft:birch_forest": "2024-12-08 23:29:02 +0000",
       "minecraft:savanna_plateau": "2024-12-09 21:27:30 +0000",
+      "minecraft:beach": "2024-12-10 18:29:38 +0000",
       "minecraft:dark_forest": "2024-12-09 20:41:51 +0000",
       "minecraft:sparse_jungle": "2024-12-09 22:19:57 +0000",
       "minecraft:river": "2024-12-09 19:42:23 +0000",
@@ -4310,7 +4311,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-10 18:25:00 +0000",
       "minecraft:vindicator": "2024-12-09 20:43:40 +0000",
+      "minecraft:spider": "2024-12-10 18:30:37 +0000",
       "minecraft:zombie": "2024-12-09 20:55:57 +0000"
     },
     "done": false
@@ -5917,15 +5920,87 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 18:24:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 18:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 18:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 18:34:56 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu_dodge": {
     "criteria": {
       "ex": "2024-12-10 18:16:56 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-10 18:34:56 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2024-12-10 18:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 18:34:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 18:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 18:34:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 18:24:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 18:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-10 18:24:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 18:24:19 +0000"
     },
     "done": true
   },
