@@ -2167,7 +2167,8 @@
     "criteria": {
       "honey_bottle": "2024-12-10 19:23:48 +0000",
       "cooked_beef": "2024-12-09 19:54:16 +0000",
-      "chorus_fruit": "2024-12-09 21:56:56 +0000"
+      "chorus_fruit": "2024-12-09 21:56:56 +0000",
+      "golden_apple": "2024-12-10 20:57:05 +0000"
     },
     "done": false
   },
@@ -8103,6 +8104,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-10 20:15:35 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2024-12-10 20:54:26 +0000"
     },
     "done": true
   },
