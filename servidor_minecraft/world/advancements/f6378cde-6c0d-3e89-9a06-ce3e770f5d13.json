@@ -327,6 +327,7 @@
       "minecraft:dark_forest": "2024-12-09 20:42:08 +0000",
       "minecraft:sparse_jungle": "2024-12-09 22:58:56 +0000",
       "minecraft:river": "2024-12-09 19:44:51 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-10 19:46:46 +0000",
       "minecraft:dripstone_caves": "2024-12-09 20:01:44 +0000",
       "minecraft:grove": "2024-12-09 21:18:00 +0000",
       "minecraft:cold_ocean": "2024-12-10 19:41:46 +0000",
@@ -6519,6 +6520,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 19:45:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2024-12-10 18:51:06 +0000"
@@ -6700,6 +6707,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 19:45:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-10 18:50:16 +0000"
@@ -6733,6 +6746,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-10 18:51:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2024-12-10 19:45:33 +0000"
     },
     "done": true
   },
@@ -6961,6 +6980,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2024-12-10 19:42:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_red_sandstone": "2024-12-10 18:51:29 +0000"
@@ -6970,6 +6995,18 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-10 18:27:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 19:42:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 19:42:59 +0000"
     },
     "done": true
   },
@@ -7036,6 +7073,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-10 18:51:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 19:45:33 +0000"
     },
     "done": true
   },
@@ -7159,6 +7202,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 19:42:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
       "has_item": "2024-12-10 18:35:34 +0000"
@@ -7177,6 +7226,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 19:42:59 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/shield_boots": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 18:43:31 +0000"
@@ -7186,6 +7241,12 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2024-12-10 18:43:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 19:45:33 +0000"
     },
     "done": true
   },

@@ -7693,9 +7693,45 @@
     },
     "done": true
   },
+  "minecraft:main/amber_fossil": {
+    "criteria": {
+      "amber_fossil": "2024-12-10 19:50:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2024-12-10 19:42:15 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2024-12-10 19:48:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-10 19:49:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2024-12-10 19:50:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 19:50:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 19:50:34 +0000"
     },
     "done": true
   },
@@ -7714,6 +7750,24 @@
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2024-12-10 19:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/fossil": {
+    "criteria": {
+      "amber_fossil": "2024-12-10 19:50:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 19:50:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 19:50:34 +0000"
     },
     "done": true
   },
