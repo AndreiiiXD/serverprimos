@@ -328,11 +328,16 @@
       "minecraft:sparse_jungle": "2024-12-09 22:58:56 +0000",
       "minecraft:river": "2024-12-09 19:44:51 +0000",
       "minecraft:lukewarm_ocean": "2024-12-10 19:46:46 +0000",
+      "minecraft:stony_shore": "2024-12-10 20:12:47 +0000",
       "minecraft:dripstone_caves": "2024-12-09 20:01:44 +0000",
+      "minecraft:snowy_taiga": "2024-12-10 20:13:02 +0000",
       "minecraft:grove": "2024-12-09 21:18:00 +0000",
       "minecraft:cold_ocean": "2024-12-10 19:41:46 +0000",
       "minecraft:forest": "2024-12-09 19:53:00 +0000",
       "minecraft:lush_caves": "2024-12-10 19:40:01 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-10 20:09:52 +0000",
+      "minecraft:frozen_ocean": "2024-12-10 20:10:22 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-10 20:12:26 +0000",
       "minecraft:jungle": "2024-12-09 22:59:01 +0000",
       "minecraft:ocean": "2024-12-10 19:41:29 +0000",
       "minecraft:flower_forest": "2024-12-09 23:26:07 +0000",
@@ -6514,6 +6519,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 20:15:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 18:43:31 +0000"
@@ -6623,9 +6634,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 20:15:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
       "has_item": "2024-12-10 18:35:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 20:09:15 +0000"
     },
     "done": true
   },
@@ -6638,6 +6661,12 @@
   "knightquest:recipes/misc/shinobi_helmet": {
     "criteria": {
       "has_diamond_sword": "2024-12-10 18:45:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 20:09:15 +0000"
     },
     "done": true
   },
@@ -6659,6 +6688,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 20:09:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-10 18:52:19 +0000"
@@ -6674,6 +6709,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 18:43:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-12-10 20:15:05 +0000"
     },
     "done": true
   },
@@ -6710,6 +6751,12 @@
   "iceandfire:recipes/combat/armor_black_boots": {
     "criteria": {
       "has_item": "2024-12-10 19:45:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 20:15:05 +0000"
     },
     "done": true
   },
@@ -6815,6 +6862,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2024-12-10 20:09:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-10 18:27:41 +0000"
@@ -6845,6 +6898,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-10 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "grindstone": "2024-12-10 20:11:45 +0000"
     },
     "done": true
   },
@@ -6938,11 +6997,29 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-10 20:12:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2024-12-10 19:23:52 +0000"
     },
     "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 20:09:15 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "grindstone": "2024-12-10 20:11:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
@@ -6959,6 +7036,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
     "criteria": {
       "has_smooth_red_sandstone": "2024-12-10 18:51:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 20:15:05 +0000"
     },
     "done": true
   },
@@ -6995,6 +7078,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-10 18:27:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-10 20:03:12 +0000"
     },
     "done": true
   },
@@ -7103,6 +7192,12 @@
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2024-12-10 18:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-10 20:17:22 +0000"
     },
     "done": true
   },

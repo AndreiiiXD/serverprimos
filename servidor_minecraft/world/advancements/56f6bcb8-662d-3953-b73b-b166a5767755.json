@@ -6295,6 +6295,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-10 20:05:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-12-10 19:34:01 +0000"
@@ -6358,6 +6364,12 @@
   "cfm:recipes/decorations/mangrove_table": {
     "criteria": {
       "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-10 20:17:22 +0000"
     },
     "done": true
   },
