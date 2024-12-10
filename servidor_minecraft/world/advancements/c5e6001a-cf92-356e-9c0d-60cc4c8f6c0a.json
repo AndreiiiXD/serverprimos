@@ -7855,6 +7855,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-10 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_helmet": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-10 22:09:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2024-12-10 21:15:20 +0000"
@@ -8011,6 +8023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-10 22:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
     "criteria": {
       "has_cod": "2024-12-10 20:30:49 +0000"
@@ -8035,6 +8053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-10 22:20:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_chair": {
     "criteria": {
       "has_planks": "2024-12-10 20:20:07 +0000"
@@ -8050,6 +8074,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-10 20:19:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_leggings": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-10 22:09:26 +0000"
     },
     "done": true
   },
@@ -8089,6 +8119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2024-12-10 22:20:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
     "criteria": {
       "has_dragonscales_white": "2024-12-10 21:15:20 +0000"
@@ -8116,6 +8152,12 @@
   "aquamirae:adventure/obtain_esca": {
     "criteria": {
       "esca": "2024-12-10 20:30:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/azalea_hedge": {
+    "criteria": {
+      "has_azalea_leaves": "2024-12-10 22:06:07 +0000"
     },
     "done": true
   },
@@ -8191,6 +8233,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/pirate2_helmet": {
+    "criteria": {
+      "has_red_carpet": "2024-12-10 22:14:58 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2024-12-10 20:51:13 +0000"
@@ -8230,6 +8278,12 @@
   "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2024-12-10 21:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-10 22:09:26 +0000"
     },
     "done": true
   },
@@ -8329,6 +8383,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/azalea_hedge": {
+    "criteria": {
+      "has_leaves": "2024-12-10 22:06:07 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/conquistador_chestplate": {
     "criteria": {
       "has_leather": "2024-12-10 20:19:41 +0000"
@@ -8404,6 +8464,12 @@
   "cfm:recipes/decorations/stripped_birch_crate": {
     "criteria": {
       "has_planks": "2024-12-10 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_chestplate": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-10 22:09:26 +0000"
     },
     "done": true
   },
@@ -8650,6 +8716,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-10 20:19:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_boots": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-10 22:09:26 +0000"
     },
     "done": true
   },
