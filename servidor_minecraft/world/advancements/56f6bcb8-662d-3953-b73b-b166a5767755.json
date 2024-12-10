@@ -5881,6 +5881,12 @@
     },
     "done": true
   },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2024-12-10 00:02:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-09 23:49:47 +0000"
@@ -5896,6 +5902,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-09 23:49:47 +0000"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/master_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2024-12-10 00:02:30 +0000"
     },
     "done": true
   },
