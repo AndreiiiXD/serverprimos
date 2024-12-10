@@ -334,6 +334,7 @@
       "minecraft:stony_shore": "2024-12-10 20:37:27 +0000",
       "minecraft:dripstone_caves": "2024-12-09 20:01:39 +0000",
       "minecraft:grove": "2024-12-09 21:01:39 +0000",
+      "minecraft:swamp": "2024-12-10 21:53:51 +0000",
       "minecraft:cold_ocean": "2024-12-10 20:28:51 +0000",
       "minecraft:forest": "2024-12-09 19:51:18 +0000",
       "minecraft:lush_caves": "2024-12-10 20:04:57 +0000",
@@ -2171,6 +2172,7 @@
       "sweet_berries": "2024-12-10 21:21:30 +0000",
       "cooked_beef": "2024-12-09 19:54:16 +0000",
       "chorus_fruit": "2024-12-09 21:56:56 +0000",
+      "bread": "2024-12-10 21:50:40 +0000",
       "golden_apple": "2024-12-10 20:57:05 +0000"
     },
     "done": false
@@ -2690,6 +2692,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-10 18:20:34 +0000",
       "minecraft:spider": "2024-12-10 18:16:32 +0000",
+      "minecraft:creeper": "2024-12-10 21:47:43 +0000",
       "minecraft:evoker": "2024-12-09 20:41:00 +0000",
       "minecraft:husk": "2024-12-09 20:53:27 +0000",
       "minecraft:stray": "2024-12-10 20:26:00 +0000",
@@ -7882,6 +7885,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-10 21:56:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 21:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-10 21:49:11 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_bass": {
     "criteria": {
       "has_bass": "2024-12-10 20:38:45 +0000"
@@ -7951,6 +7972,12 @@
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2024-12-10 20:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-10 21:52:37 +0000"
     },
     "done": true
   },
@@ -8068,6 +8095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-10 21:49:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2024-12-10 20:19:41 +0000"
@@ -8092,6 +8125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-10 21:56:33 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_paper": {
     "criteria": {
       "has_logs": "2024-12-10 20:20:07 +0000"
@@ -8101,6 +8140,12 @@
   "iceandfire:recipes/combat/armor_white_chestplate": {
     "criteria": {
       "has_item": "2024-12-10 21:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 21:47:46 +0000"
     },
     "done": true
   },
@@ -8119,6 +8164,12 @@
   "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-10 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_plush_box": {
+    "criteria": {
+      "first_plush_box_0": "2024-12-10 21:46:32 +0000"
     },
     "done": true
   },
@@ -8152,6 +8203,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 21:48:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-10 20:15:35 +0000"
@@ -8164,9 +8221,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-10 21:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-10 21:56:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-10 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-10 21:47:46 +0000"
     },
     "done": true
   },
@@ -8248,6 +8323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 21:47:46 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/conquistador_chestplate": {
     "criteria": {
       "has_leather": "2024-12-10 20:19:41 +0000"
@@ -8284,6 +8365,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2024-12-10 21:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-10 20:25:39 +0000"
@@ -8293,6 +8380,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-10 20:11:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-10 21:49:11 +0000"
     },
     "done": true
   },
@@ -8329,6 +8422,18 @@
   "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-10 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-10 21:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-10 21:56:33 +0000"
     },
     "done": true
   },
@@ -8374,6 +8479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-10 21:49:11 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/strawhat_chestplate": {
     "criteria": {
       "has_white_wool": "2024-12-10 20:19:41 +0000"
@@ -8392,6 +8503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 21:47:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2024-12-10 20:30:50 +0000"
@@ -8407,6 +8524,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-10 20:19:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 21:48:10 +0000"
     },
     "done": true
   },
@@ -8440,6 +8563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-10 21:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2024-12-10 20:17:22 +0000"
@@ -8458,9 +8587,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2024-12-10 21:48:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_table": {
     "criteria": {
       "has_planks": "2024-12-10 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 21:48:10 +0000"
     },
     "done": true
   },
