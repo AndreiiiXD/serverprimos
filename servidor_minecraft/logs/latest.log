@@ -4469,3 +4469,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [10Dec2024 19:52:10.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
 [10Dec2024 19:52:24.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
 [10Dec2024 19:52:36.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Spectator Mode]
+[10Dec2024 19:52:58.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[10Dec2024 19:53:08.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 19:53:23.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AndreiiiiiXd moved too quickly! -9.524376691593943,-2.446947937232963,-2.2526292380032373
+[10Dec2024 19:53:52.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AndreiiiiiXd lost connection: Disconnected
+[10Dec2024 19:53:52.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd left the game
+[10Dec2024 20:02:00.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AndreiiiiiXd[/100.75.193.40:50529] logged in with entity id 80677 at (1064.5846216417644, 83.90032244598353, -1427.8642890045467)
+[10Dec2024 20:02:00.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd joined the game
+[10Dec2024 20:02:01.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santitin98YT moved too quickly! 0.30686188944719106,0.0,10.260819252745748
+[10Dec2024 20:03:12.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santitin98YT has made the advancement [Ancient Civilization]

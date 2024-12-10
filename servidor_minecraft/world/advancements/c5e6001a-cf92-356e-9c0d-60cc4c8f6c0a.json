@@ -7693,13 +7693,25 @@
     },
     "done": true
   },
-  "minecraft:main/amber_fossil": {
+  "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
-      "amber_fossil": "2024-12-10 19:50:44 +0000"
+      "ex": "2024-12-10 19:40:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-10 19:42:12 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-12-10 19:42:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2024-12-10 19:42:15 +0000"
     },
@@ -7735,30 +7747,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-10 19:40:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2024-12-10 19:42:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
-    "criteria": {
-      "has_item": "2024-12-10 19:42:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:main/fossil": {
-    "criteria": {
-      "amber_fossil": "2024-12-10 19:50:44 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
       "has_item": "2024-12-10 19:50:34 +0000"
@@ -7768,6 +7756,36 @@
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2024-12-10 19:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/amber_fossil": {
+    "criteria": {
+      "amber_fossil": "2024-12-10 19:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/fossil": {
+    "criteria": {
+      "amber_fossil": "2024-12-10 19:50:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_hedge": {
+    "criteria": {
+      "has_jungle_leaves": "2024-12-10 19:52:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_hedge": {
+    "criteria": {
+      "has_leaves": "2024-12-10 19:52:24 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2024-12-10 19:52:24 +0000"
     },
     "done": true
   },
