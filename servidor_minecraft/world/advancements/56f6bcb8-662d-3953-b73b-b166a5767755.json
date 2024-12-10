@@ -6193,6 +6193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-10 21:11:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_log": "2024-12-10 19:34:01 +0000"
@@ -6238,6 +6244,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-10 21:11:30 +0000"
     },
     "done": true
   },
@@ -6729,6 +6741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 21:11:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_crate": {
     "criteria": {
       "has_log": "2024-12-10 19:34:01 +0000"
@@ -6780,6 +6798,12 @@
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2024-12-10 20:41:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 21:11:30 +0000"
     },
     "done": true
   },
@@ -6861,6 +6885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 21:11:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
     "criteria": {
       "has_diorite": "2024-12-10 20:48:28 +0000"
@@ -6870,6 +6900,12 @@
   "cfm:recipes/decorations/stripped_mangrove_cabinet": {
     "criteria": {
       "has_log": "2024-12-10 19:34:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 21:11:30 +0000"
     },
     "done": true
   },
