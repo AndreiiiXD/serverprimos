@@ -329,8 +329,11 @@
       "minecraft:river": "2024-12-09 19:44:51 +0000",
       "minecraft:dripstone_caves": "2024-12-09 20:01:44 +0000",
       "minecraft:grove": "2024-12-09 21:18:00 +0000",
+      "minecraft:cold_ocean": "2024-12-10 19:41:46 +0000",
       "minecraft:forest": "2024-12-09 19:53:00 +0000",
+      "minecraft:lush_caves": "2024-12-10 19:40:01 +0000",
       "minecraft:jungle": "2024-12-09 22:59:01 +0000",
+      "minecraft:ocean": "2024-12-10 19:41:29 +0000",
       "minecraft:flower_forest": "2024-12-09 23:26:07 +0000",
       "minecraft:frozen_peaks": "2024-12-09 20:46:54 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-09 20:39:58 +0000",
@@ -6553,6 +6556,12 @@
     },
     "done": true
   },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2024-12-10 19:30:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-10 18:50:16 +0000"
@@ -6613,6 +6622,12 @@
     },
     "done": true
   },
+  "the_bumblezone:windy_air/obtain_windy_air": {
+    "criteria": {
+      "obtain_windy_air": "2024-12-10 19:30:51 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/shinobi_helmet": {
     "criteria": {
       "has_diamond_sword": "2024-12-10 18:45:44 +0000"
@@ -6664,6 +6679,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-10 18:27:41 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2024-12-10 19:30:30 +0000"
     },
     "done": true
   },

@@ -4364,3 +4364,58 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [10Dec2024 19:31:35.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Creative Mode]
 [10Dec2024 19:31:46.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Teleported AndreiiiiiXd to xXAlebyXx]
 [10Dec2024 19:31:50.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3551ms or 71 ticks behind
+[10Dec2024 19:31:54.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[10Dec2024 19:31:58.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Spectator Mode]
+[10Dec2024 19:32:05.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Creative Mode]
+[10Dec2024 19:32:26.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 19:32:28.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Spectator Mode]
+[10Dec2024 19:32:40.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Creative Mode]
+[10Dec2024 19:32:55.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[10Dec2024 19:32:58.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 19:33:09.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 19:33:13.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AndreiiiiiXd was kicked for floating too long!
+[10Dec2024 19:33:13.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AndreiiiiiXd lost connection: Flying is not enabled on this server
+[10Dec2024 19:33:13.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd left the game
+[10Dec2024 19:33:21.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Survival Mode]
+[10Dec2024 19:33:29.007] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/52315, l='ServerLevel[world]', x=1988.62, y=106.77, z=-859.29] died, message: 'Engineer was slain by Zombie Lumberjack'
+[10Dec2024 19:33:39.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Creative Mode]
+[10Dec2024 19:33:41.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Survival Mode]
+[10Dec2024 19:33:46.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AndreiiiiiXd[/100.75.193.40:50431] logged in with entity id 56666 at (1995.2114113226687, 121.6530392000098, -867.3941768638844)
+[10Dec2024 19:33:46.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd joined the game
+[10Dec2024 19:34:13.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[10Dec2024 19:34:52.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 19:35:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Teleported xXAlebyXx to AndreiiiiiXd]
+[10Dec2024 19:36:01.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Creative Mode]
+[10Dec2024 19:36:02.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 19:37:25.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/52274, l='ServerLevel[world]', x=1912.79, y=104.00, z=-868.58] died, message: 'Florist was slain by Door Knight'
+[10Dec2024 19:37:28.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2251, y=82, z=-767} BlockPos{x=2252, y=81, z=-766}
+[10Dec2024 19:37:28.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 19:37:39.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 19:37:40.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Creative Mode]
+[10Dec2024 19:38:19.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Survival Mode]
+[10Dec2024 19:38:28.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Creative Mode]
+[10Dec2024 19:38:33.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Teleported xXAlebyXx to Santitin98YT]
+[10Dec2024 19:38:37.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Survival Mode]
+[10Dec2024 19:38:57.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set the time to 1000]
+[10Dec2024 19:39:02.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 19:39:09.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Spectator Mode]
+[10Dec2024 19:39:28.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Survival Mode]
+[10Dec2024 19:40:08.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 19:40:21.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 19:40:23.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd has made the advancement [Mine? Mine? Mine?]
+[10Dec2024 19:40:26.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[10Dec2024 19:40:30.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 19:40:32.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 19:40:34.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 19:40:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[10Dec2024 19:40:45.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Adventure Mode]
+[10Dec2024 19:40:47.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Spectator Mode]
+[10Dec2024 19:40:52.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[10Dec2024 19:41:05.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Adventure Mode]
+[10Dec2024 19:41:08.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[10Dec2024 19:41:27.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Spectator Mode]
+[10Dec2024 19:41:45.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[10Dec2024 19:41:53.769] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[10Dec2024 19:41:58.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Creative Mode]
+[10Dec2024 19:42:00.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Survival Mode]
+[10Dec2024 19:42:08.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Teleported xXAlebyXx to AndreiiiiiXd]
