@@ -330,6 +330,7 @@
       "minecraft:dripstone_caves": "2024-12-09 20:01:39 +0000",
       "minecraft:grove": "2024-12-09 21:01:39 +0000",
       "minecraft:forest": "2024-12-09 19:51:18 +0000",
+      "minecraft:jungle": "2024-12-10 18:59:16 +0000",
       "minecraft:flower_forest": "2024-12-09 23:26:04 +0000",
       "minecraft:frozen_peaks": "2024-12-09 20:51:40 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-09 20:39:36 +0000",
@@ -2154,6 +2155,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2024-12-10 19:23:48 +0000",
       "cooked_beef": "2024-12-09 19:54:16 +0000",
       "chorus_fruit": "2024-12-09 21:56:56 +0000"
     },
@@ -5868,6 +5870,13 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_subway": "2024-12-10 19:18:19 +0000",
+      "in_throne_pillar": "2024-12-10 19:21:22 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 18:19:00 +0000"
@@ -5901,6 +5910,12 @@
   "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-10 18:19:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2024-12-10 18:59:41 +0000"
     },
     "done": true
   },
@@ -6036,6 +6051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-10 19:16:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-10 18:19:00 +0000"
@@ -6087,6 +6108,12 @@
   "exlinefurniture:recipes/misc/oak": {
     "criteria": {
       "has_ingredient": "2024-12-10 18:52:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-10 19:16:00 +0000"
     },
     "done": true
   },
@@ -6147,6 +6174,12 @@
   "cfm:recipes/decorations/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-10 18:19:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-10 18:58:28 +0000"
     },
     "done": true
   },
@@ -6270,9 +6303,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-10 19:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-10 18:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2024-12-10 19:23:30 +0000"
     },
     "done": true
   },
@@ -6468,6 +6513,12 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_crystal/consume_honey_crystal_shards": {
+    "criteria": {
+      "consume_honey_crystal_shards": "2024-12-10 19:21:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-10 18:52:29 +0000"
@@ -6495,6 +6546,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-10 18:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-10 19:16:00 +0000"
     },
     "done": true
   },
@@ -6636,9 +6693,24 @@
     },
     "done": true
   },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "crystal_canyon": "2024-12-10 19:13:21 +0000",
+      "sugar_water_floor": "2024-12-10 19:19:20 +0000",
+      "hive_pillar": "2024-12-10 19:16:28 +0000",
+      "hive_wall": "2024-12-10 19:13:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-10 18:52:03 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2024-12-10 19:13:16 +0000"
     },
     "done": true
   },
@@ -6705,6 +6777,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-10 18:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2024-12-10 18:59:41 +0000"
     },
     "done": true
   },
@@ -6798,9 +6876,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-10 19:23:38 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/hollow_helmet": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-10 18:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-10 19:26:09 +0000"
     },
     "done": true
   },
@@ -6918,6 +7008,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2024-12-10 18:59:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2024-12-10 18:38:13 +0000"
@@ -6930,15 +7026,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-10 18:58:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-10 18:52:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-10 19:23:38 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/the_beginning": {
+    "criteria": {
+      "bee_queen_first_trade": "2024-12-10 19:21:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-10 18:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-10 19:23:38 +0000"
     },
     "done": true
   },
@@ -6981,6 +7101,12 @@
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2024-12-10 18:52:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-10 19:26:09 +0000"
     },
     "done": true
   },
@@ -7050,6 +7176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-10 19:26:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-10 18:52:03 +0000"
@@ -7086,6 +7218,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-10 18:59:41 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/skulk4_helmet": {
     "criteria": {
       "has_sculk_sensor": "2024-12-10 18:39:47 +0000"
@@ -7107,6 +7245,12 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-10 18:29:52 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2024-12-10 19:21:22 +0000"
     },
     "done": true
   },
@@ -7326,6 +7470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-10 19:26:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-10 18:38:07 +0000"
@@ -7398,9 +7548,21 @@
     },
     "done": true
   },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2024-12-10 19:18:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-10 18:23:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2024-12-10 18:59:41 +0000"
     },
     "done": true
   },
@@ -7413,6 +7575,12 @@
   "knightquest:recipes/misc/skulk_boots": {
     "criteria": {
       "has_sculk_sensor": "2024-12-10 18:39:47 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
+    "criteria": {
+      "obtain_honey_crystal_block": "2024-12-10 19:22:27 +0000"
     },
     "done": true
   },

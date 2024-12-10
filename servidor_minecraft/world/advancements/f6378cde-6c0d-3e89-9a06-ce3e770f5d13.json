@@ -2542,6 +2542,7 @@
       "minecraft:skeleton": "2024-12-09 21:00:07 +0000",
       "minecraft:hoglin": "2024-12-09 20:08:43 +0000",
       "minecraft:spider": "2024-12-09 19:54:37 +0000",
+      "minecraft:creeper": "2024-12-10 19:01:29 +0000",
       "minecraft:zombie": "2024-12-09 22:08:54 +0000"
     },
     "done": false
@@ -6473,6 +6474,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/witch_helmet": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-10 19:22:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-10 18:50:16 +0000"
@@ -6515,6 +6522,13 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_subway": "2024-12-10 19:17:08 +0000",
+      "in_throne_pillar": "2024-12-10 19:21:45 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-10 18:27:41 +0000"
@@ -6542,6 +6556,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-10 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_boots": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-10 19:22:20 +0000"
     },
     "done": true
   },
@@ -6635,6 +6655,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-10 19:07:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-10 18:27:41 +0000"
@@ -6656,6 +6682,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-10 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_chestplate": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-10 19:22:20 +0000"
     },
     "done": true
   },
@@ -6686,6 +6718,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-10 18:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-10 19:05:16 +0000"
     },
     "done": true
   },
@@ -6743,6 +6781,27 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2024-12-10 19:20:31 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "crystal_canyon": "2024-12-10 19:13:21 +0000",
+      "sugar_water_floor": "2024-12-10 19:17:51 +0000",
+      "hive_pillar": "2024-12-10 19:16:24 +0000",
+      "hive_wall": "2024-12-10 19:14:41 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2024-12-10 19:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-10 18:50:16 +0000"
@@ -6782,6 +6841,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 18:43:31 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_leggings": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-10 19:22:20 +0000"
     },
     "done": true
   },
@@ -6830,6 +6895,18 @@
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2024-12-10 18:51:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-10 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-10 19:26:15 +0000"
     },
     "done": true
   },
@@ -6887,6 +6964,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-10 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/the_beginning": {
+    "criteria": {
+      "bee_queen_first_trade": "2024-12-10 19:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-10 19:23:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 18:43:31 +0000"
@@ -6902,6 +6997,12 @@
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2024-12-10 18:36:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-10 19:26:15 +0000"
     },
     "done": true
   },
@@ -6923,6 +7024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-10 19:26:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 18:43:31 +0000"
@@ -6938,6 +7045,12 @@
   "knightquest:recipes/misc/shield_helmet": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 18:43:31 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2024-12-10 19:21:45 +0000"
     },
     "done": true
   },
@@ -7007,6 +7120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-10 19:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-10 18:50:16 +0000"
@@ -7028,6 +7147,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-10 18:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-10 19:05:16 +0000"
     },
     "done": true
   },
