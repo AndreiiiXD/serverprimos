@@ -8954,7 +8954,8 @@
   },
   "bygonenether:explore_structures": {
     "criteria": {
-      "in_piglin_manor": "2024-12-10 23:15:49 +0000"
+      "in_piglin_manor": "2024-12-10 23:15:49 +0000",
+      "in_catacomb": "2024-12-11 00:10:23 +0000"
     },
     "done": false
   },
@@ -9039,6 +9040,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-12-10 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-11 00:10:38 +0000"
     },
     "done": true
   },
@@ -9225,6 +9232,12 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-11 00:05:55 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:catacomb": {
+    "criteria": {
+      "in_catacomb": "2024-12-11 00:10:23 +0000"
     },
     "done": true
   },

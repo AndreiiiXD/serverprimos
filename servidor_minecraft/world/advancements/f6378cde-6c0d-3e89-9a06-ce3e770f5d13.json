@@ -7845,6 +7845,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-11 00:10:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-11 00:06:45 +0000"
