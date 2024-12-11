@@ -8332,6 +8332,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-11 02:07:19 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/skulk2_helmet": {
     "criteria": {
       "has_netherite_helmet": "2024-12-11 01:29:52 +0000"

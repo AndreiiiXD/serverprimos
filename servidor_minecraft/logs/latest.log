@@ -527,3 +527,95 @@
 [11Dec2024 02:02:17.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
 [11Dec2024 02:02:22.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
 [11Dec2024 02:02:23.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set the time to 1000]
+[11Dec2024 02:02:28.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[11Dec2024 02:02:40.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[11Dec2024 02:02:41.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[11Dec2024 02:02:42.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Creative Mode]
+[11Dec2024 02:03:05.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:03:22.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[11Dec2024 02:03:34.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:03:37.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd was blown up by Santitin98YT
+[11Dec2024 02:03:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Teleported AndreiiiiiXd to xXAlebyXx]
+[11Dec2024 02:03:53.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[11Dec2024 02:03:55.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:03:56.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[11Dec2024 02:04:04.083] [Server thread/WARN] [cgm/]: literal{Santitin98YT}(f6378cde-6c0d-3e89-9a06-ce3e770f5d13) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 87
+[11Dec2024 02:04:04.115] [Server thread/WARN] [cgm/]: literal{Santitin98YT}(f6378cde-6c0d-3e89-9a06-ce3e770f5d13) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[11Dec2024 02:04:04.126] [Server thread/WARN] [cgm/]: literal{Santitin98YT}(f6378cde-6c0d-3e89-9a06-ce3e770f5d13) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 88
+[11Dec2024 02:04:11.963] [Server thread/WARN] [cgm/]: literal{Santitin98YT}(f6378cde-6c0d-3e89-9a06-ce3e770f5d13) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[11Dec2024 02:04:11.976] [Server thread/WARN] [cgm/]: literal{Santitin98YT}(f6378cde-6c0d-3e89-9a06-ce3e770f5d13) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 87
+[11Dec2024 02:04:14.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[11Dec2024 02:04:33.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:04:36.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[11Dec2024 02:04:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:05:18.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd was blown up by xXAlebyXx
+[11Dec2024 02:05:25.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[11Dec2024 02:05:30.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Teleported AndreiiiiiXd to xXAlebyXx]
+[11Dec2024 02:05:36.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXAlebyXx was executed by Santitin98YT
+[11Dec2024 02:05:40.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:05:45.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Teleported xXAlebyXx to AndreiiiiiXd]
+[11Dec2024 02:05:47.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[11Dec2024 02:06:06.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Gave 64 [Basic Bullet] to xXAlebyXx]
+[11Dec2024 02:06:08.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Gave 64 [Basic Bullet] to xXAlebyXx]
+[11Dec2024 02:06:10.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Gave 64 [Basic Bullet] to xXAlebyXx]
+[11Dec2024 02:06:24.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXAlebyXx was blown up by Santitin98YT
+[11Dec2024 02:06:33.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Teleported xXAlebyXx to Santitin98YT]
+[11Dec2024 02:06:59.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:07:00.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXAlebyXx was blown up by Santitin98YT
+[11Dec2024 02:07:09.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Teleported xXAlebyXx to Santitin98YT]
+[11Dec2024 02:07:09.731] [Server thread/WARN] [cgm/]: literal{AndreiiiiiXd}(c5e6001a-cf92-356e-9c0d-60cc4c8f6c0a) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 76
+[11Dec2024 02:07:19.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santitin98YT has reached the goal [Postmortal]
+[11Dec2024 02:07:22.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[11Dec2024 02:07:24.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:08:00.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santitin98YT was executed by AndreiiiiiXd
+[11Dec2024 02:08:07.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Teleported Santitin98YT to AndreiiiiiXd]
+[11Dec2024 02:08:07.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santitin98YT was blown up by xXAlebyXx
+[11Dec2024 02:08:19.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Teleported Santitin98YT to xXAlebyXx]
+[11Dec2024 02:08:22.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[11Dec2024 02:08:23.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[11Dec2024 02:08:25.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santitin98YT was blown up by Santitin98YT
+[11Dec2024 02:08:26.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXAlebyXx was decimated by AndreiiiiiXd
+[11Dec2024 02:08:31.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Teleported Santitin98YT to AndreiiiiiXd]
+[11Dec2024 02:08:31.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[11Dec2024 02:08:33.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Spectator Mode]
+[11Dec2024 02:08:35.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:08:37.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Teleported xXAlebyXx to Santitin98YT]
+[11Dec2024 02:08:44.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[11Dec2024 02:09:02.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Creative Mode]
+[11Dec2024 02:09:14.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[11Dec2024 02:09:17.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Gave 1 [Steel Rifle] to xXAlebyXx]
+[11Dec2024 02:09:19.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:09:21.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Gave 64 [Advanced Bullet] to xXAlebyXx]
+[11Dec2024 02:09:42.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Gave 1 [Heavy Rifle] to xXAlebyXx]
+[11Dec2024 02:09:45.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Gave 1 [Pistol] to xXAlebyXx]
+[11Dec2024 02:09:46.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Gave 64 [Advanced Bullet] to xXAlebyXx]
+[11Dec2024 02:09:48.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Gave 64 [Advanced Bullet] to xXAlebyXx]
+[11Dec2024 02:09:49.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Gave 64 [Advanced Bullet] to xXAlebyXx]
+[11Dec2024 02:09:51.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Gave 64 [Basic Bullet] to xXAlebyXx]
+[11Dec2024 02:09:59.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[11Dec2024 02:10:00.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Killed 33 entities]
+[11Dec2024 02:10:07.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXAlebyXx was decimated by AndreiiiiiXd
+[11Dec2024 02:10:12.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[11Dec2024 02:10:13.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:10:14.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Teleported xXAlebyXx to Santitin98YT]
+[11Dec2024 02:10:50.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[11Dec2024 02:10:51.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:11:06.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Creative Mode]
+[11Dec2024 02:11:15.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Set own game mode to Survival Mode]
+[11Dec2024 02:11:15.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Adventure Mode]
+[11Dec2024 02:11:20.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Spectator Mode]
+[11Dec2024 02:11:24.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[11Dec2024 02:11:27.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Set own game mode to Survival Mode]
+[11Dec2024 02:11:41.757] [Server thread/WARN] [cgm/]: literal{Santitin98YT}(f6378cde-6c0d-3e89-9a06-ce3e770f5d13) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[11Dec2024 02:11:41.772] [Server thread/WARN] [cgm/]: literal{Santitin98YT}(f6378cde-6c0d-3e89-9a06-ce3e770f5d13) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 84
+[11Dec2024 02:11:44.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd was blown up by AndreiiiiiXd
+[11Dec2024 02:11:46.534] [Server thread/WARN] [jeg/]: literal{xXAlebyXx}(56f6bcb8-662d-3953-b73b-b166a5767755) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[11Dec2024 02:11:46.534] [Server thread/WARN] [jeg/]: literal{xXAlebyXx}(56f6bcb8-662d-3953-b73b-b166a5767755) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[11Dec2024 02:11:46.535] [Server thread/WARN] [jeg/]: literal{xXAlebyXx}(56f6bcb8-662d-3953-b73b-b166a5767755) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[11Dec2024 02:11:53.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Teleported AndreiiiiiXd to xXAlebyXx]
+[11Dec2024 02:12:15.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd was decimated by Santitin98YT
+[11Dec2024 02:12:24.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Teleported AndreiiiiiXd to xXAlebyXx]
+[11Dec2024 02:12:27.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santitin98YT was blown up by xXAlebyXx
+[11Dec2024 02:12:27.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXAlebyXx was blown up by xXAlebyXx
+[11Dec2024 02:12:33.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santitin98YT: Teleported Santitin98YT to AndreiiiiiXd]
+[11Dec2024 02:12:43.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xXAlebyXx: Teleported xXAlebyXx to Santitin98YT]
