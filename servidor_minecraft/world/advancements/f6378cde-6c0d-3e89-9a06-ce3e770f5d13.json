@@ -2822,7 +2822,9 @@
     "criteria": {
       "cooked_beef": "2024-12-09 20:01:15 +0000",
       "potato": "2024-12-09 19:54:53 +0000",
-      "cooked_chicken": "2024-12-09 20:49:59 +0000"
+      "golden_apple": "2024-12-11 01:37:23 +0000",
+      "cooked_chicken": "2024-12-09 20:49:59 +0000",
+      "enchanted_golden_apple": "2024-12-11 01:35:08 +0000"
     },
     "done": false
   },
@@ -7844,15 +7846,51 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/polar_boots": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-11 01:29:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_cooler": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/horn_boots": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-11 01:29:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_boots": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-11 01:29:56 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-11 01:29:54 +0000"
     },
     "done": true
   },
@@ -7886,9 +7924,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/skulk_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-11 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-11 01:29:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-11 01:29:53 +0000"
     },
     "done": true
   },
@@ -7922,9 +7978,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/blaze_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-11 01:29:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
     },
     "done": true
   },
@@ -7958,6 +8026,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-11 01:29:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
@@ -7970,9 +8044,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/silverfish_boots": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-11 01:29:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_cooler": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
     },
     "done": true
   },
@@ -8006,6 +8098,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/polar_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
@@ -8024,9 +8122,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/husk_helmet3": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/sea_chestplate": {
     "criteria": {
       "has_phantom_membrane": "2024-12-11 01:05:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate2_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-11 01:29:53 +0000"
     },
     "done": true
   },
@@ -8045,6 +8161,12 @@
   "cfm:recipes/decorations/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-11 01:29:54 +0000"
     },
     "done": true
   },
@@ -8087,6 +8209,12 @@
   "cfm:recipes/decorations/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tengu_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
     },
     "done": true
   },
@@ -8144,6 +8272,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/husk_boots": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-11 01:29:56 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-11 01:29:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
@@ -8156,9 +8296,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/blaze_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-11 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk3_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_mail_box": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_boots": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-11 01:29:56 +0000"
     },
     "done": true
   },
@@ -8171,6 +8329,18 @@
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk2_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-11 01:29:54 +0000"
     },
     "done": true
   },
@@ -8204,9 +8374,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/silverfish_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-11 01:29:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk4_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
     },
     "done": true
   },
@@ -8228,6 +8410,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/silverfish_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-11 01:29:54 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2024-12-11 00:46:26 +0000"
@@ -8243,6 +8431,12 @@
   "cfm:recipes/decorations/mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_boots": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-11 01:29:56 +0000"
     },
     "done": true
   },
@@ -8276,6 +8470,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/pirate3_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_cooler": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
@@ -8291,6 +8491,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-11 00:06:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
     },
     "done": true
   },
@@ -8324,6 +8530,36 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/husk_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-11 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-11 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-11 01:29:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-11 01:29:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk_boots": {
+    "criteria": {
+      "has_netherite_boots": "2024-12-11 01:29:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_cooler": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
@@ -8333,6 +8569,12 @@
   "cfm:recipes/decorations/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-11 01:24:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-11 01:29:53 +0000"
     },
     "done": true
   },

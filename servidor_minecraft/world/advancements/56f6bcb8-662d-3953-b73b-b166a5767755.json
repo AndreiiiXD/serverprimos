@@ -1443,7 +1443,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-12-09 19:54:54 +0000"
+      "cooked_beef": "2024-12-09 19:54:54 +0000",
+      "enchanted_golden_apple": "2024-12-11 01:35:31 +0000"
     },
     "done": false
   },
@@ -8270,6 +8271,12 @@
   "knightquest:recipes/misc/dragon_chestplate": {
     "criteria": {
       "has_netherite_chestplate": "2024-12-11 01:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-11 01:35:23 +0000"
     },
     "done": true
   },
