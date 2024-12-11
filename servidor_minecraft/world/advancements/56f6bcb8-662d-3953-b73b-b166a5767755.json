@@ -320,6 +320,7 @@
       "minecraft:snowy_slopes": "2024-12-09 21:00:10 +0000",
       "minecraft:mushroom_fields": "2024-12-10 20:47:43 +0000",
       "minecraft:taiga": "2024-12-09 19:42:10 +0000",
+      "minecraft:frozen_river": "2024-12-11 00:42:13 +0000",
       "minecraft:cherry_grove": "2024-12-09 20:59:27 +0000",
       "minecraft:sunflower_plains": "2024-12-09 20:59:32 +0000",
       "minecraft:birch_forest": "2024-12-08 23:29:02 +0000",
@@ -328,7 +329,9 @@
       "minecraft:dark_forest": "2024-12-09 20:41:51 +0000",
       "minecraft:sparse_jungle": "2024-12-09 22:19:57 +0000",
       "minecraft:river": "2024-12-09 19:42:23 +0000",
+      "minecraft:snowy_plains": "2024-12-11 00:42:31 +0000",
       "minecraft:dripstone_caves": "2024-12-09 20:42:03 +0000",
+      "minecraft:snowy_taiga": "2024-12-11 00:26:20 +0000",
       "minecraft:grove": "2024-12-09 20:57:00 +0000",
       "minecraft:swamp": "2024-12-10 20:54:30 +0000",
       "minecraft:cold_ocean": "2024-12-10 20:53:39 +0000",
@@ -7865,15 +7868,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
+    "criteria": {
+      "has_spruce_leaves": "2024-12-11 00:28:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2024-12-11 00:07:41 +0000"
     },
     "done": true
   },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2024-12-11 00:28:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_maxed_honey_crystal_shield": {
+    "criteria": {
+      "obtain_maxed_honey_crystal_shield": "2024-12-11 00:43:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-11 00:45:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-12-10 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_hedge": {
+    "criteria": {
+      "has_leaves": "2024-12-11 00:28:02 +0000"
     },
     "done": true
   },

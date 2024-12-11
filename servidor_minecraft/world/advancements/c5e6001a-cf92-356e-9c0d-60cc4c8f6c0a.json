@@ -333,7 +333,9 @@
       "minecraft:sparse_jungle": "2024-12-09 23:01:32 +0000",
       "minecraft:river": "2024-12-09 19:51:30 +0000",
       "minecraft:stony_shore": "2024-12-10 20:37:27 +0000",
+      "minecraft:snowy_plains": "2024-12-11 00:42:09 +0000",
       "minecraft:dripstone_caves": "2024-12-09 20:01:39 +0000",
+      "minecraft:snowy_taiga": "2024-12-11 00:33:20 +0000",
       "minecraft:grove": "2024-12-09 21:01:39 +0000",
       "minecraft:swamp": "2024-12-10 21:53:51 +0000",
       "minecraft:cold_ocean": "2024-12-10 20:28:51 +0000",
@@ -9019,6 +9021,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/polar_boots": {
+    "criteria": {
+      "has_snowball": "2024-12-11 00:47:51 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/nuclear_bomb": {
     "criteria": {
       "nuclear_bomb": "2024-12-10 23:50:40 +0000"
@@ -9034,6 +9042,18 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-11 00:05:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_leggings": {
+    "criteria": {
+      "has_snowball": "2024-12-11 00:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-11 00:47:51 +0000"
     },
     "done": true
   },
@@ -9079,6 +9099,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2024-12-11 00:35:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-10 23:39:30 +0000"
@@ -9103,6 +9129,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2024-12-11 00:35:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-10 23:41:55 +0000"
@@ -9112,6 +9144,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-11 00:05:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-11 00:35:37 +0000"
     },
     "done": true
   },
@@ -9139,6 +9177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-11 00:43:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2024-12-10 23:41:55 +0000"
@@ -9148,6 +9192,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-10 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_helmet": {
+    "criteria": {
+      "has_snowball": "2024-12-11 00:47:51 +0000"
     },
     "done": true
   },
@@ -9172,6 +9222,12 @@
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2024-12-10 23:35:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2024-12-11 00:35:37 +0000"
     },
     "done": true
   },
@@ -9229,9 +9285,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2024-12-11 00:35:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-11 00:05:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/polar_chestplate": {
+    "criteria": {
+      "has_snowball": "2024-12-11 00:47:51 +0000"
     },
     "done": true
   },
@@ -9256,6 +9324,12 @@
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2024-12-10 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-11 00:46:55 +0000"
     },
     "done": true
   },
@@ -9313,9 +9387,21 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_crystal_shield/obtain_maxed_honey_crystal_shield": {
+    "criteria": {
+      "obtain_maxed_honey_crystal_shield": "2024-12-11 00:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2024-12-10 23:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-11 00:46:55 +0000"
     },
     "done": true
   },
@@ -9370,6 +9456,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-12-10 23:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-11 00:47:51 +0000"
     },
     "done": true
   },
